@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "presentation"
+version = "0.1.0"
+description = ""
+authors = ["Mark McKenzie <mrk@megapont.com>"]
+
+[tool.poetry.dependencies]
+python = "3.10.3"
+Pillow = "^9.1.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
