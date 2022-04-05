@@ -1,4 +1,4 @@
-# Bitcoin Unleashed
+# Boozy Unleashed
 Code repository for the Bitcoin Unleashed presentation on `Build and List an NFT on Bitcoin`.
 
 This code is not 'clean', lacks testing and is only really usable for the most basic of NFT collections. Additionally it does not make use of `threading` or `multiprocessing` to speed up the process.
