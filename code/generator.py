@@ -7,7 +7,6 @@ from PIL import Image
 
 class BoozyGenerator:
     _traits = ["backgrounds", "bodies", "eyes", "head"]
-    _supply = 200
 
     def generate_unleashed_boozy(self) -> dict:
         boozy = {"backgrounds": None, "bodies": None, "eyes": None, "head": None}
